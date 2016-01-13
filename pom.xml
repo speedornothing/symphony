@@ -263,7 +263,7 @@
                     <skipTests>false</skipTests>
                 </configuration>
             </plugin>
-            
+            <!-- 
             <plugin>
                 <groupId>org.b3log</groupId>
                 <artifactId>maven-min-plugin</artifactId>
@@ -271,7 +271,6 @@
 
                 <configuration>
                     <suffix>.min</suffix>
-                    <!-- Common#MINI_POSTFIX_VALUE -->
 
                     <cssSourceDir>${basedir}/src/main/webapp/css</cssSourceDir>
                     <cssTargetDir>${basedir}/src/main/webapp/css</cssTargetDir>
@@ -288,6 +287,7 @@
                     </execution>
                 </executions>
             </plugin>
+             -->
             
             <plugin>
                 <groupId>com.mycila.maven-license-plugin</groupId>
