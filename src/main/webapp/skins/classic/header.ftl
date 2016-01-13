@@ -67,6 +67,7 @@
             </#if>
         </div>
     </div>
+    <!--
     <script type="text/javascript">(function () {
             document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));
             var bdcs = document.createElement('script');
@@ -76,4 +77,5 @@
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(bdcs, s);
         })();</script>
+    -->
 </div>
